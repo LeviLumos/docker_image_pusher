@@ -1,4 +1,4 @@
 redis
 mysql
 nginx
-jdk:8
+openjdk:8
