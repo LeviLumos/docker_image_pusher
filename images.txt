@@ -2,3 +2,4 @@ redis
 mysql
 nginx
 openjdk:8
+postgres
