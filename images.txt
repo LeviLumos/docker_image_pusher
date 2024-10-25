@@ -5,3 +5,4 @@ openjdk:8
 postgres
 jenkins/jenkins
 caddy
+clidey/whodb
