@@ -9,3 +9,4 @@ clidey/whodb
 langgenius/dify-sandbox:0.2.10
 ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
+zhipuai/glm-4-voice:0.1
