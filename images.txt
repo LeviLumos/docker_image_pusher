@@ -11,3 +11,6 @@ ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 zhipuai/glm-4-voice:0.1
 chat2db/chat2db:latest
+mongo
+tduckcloud/tduck-report-platform
+tduckcloud/tduck-report-front
