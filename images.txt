@@ -15,3 +15,4 @@ mongo
 tduckcloud/tduck-report-platform
 tduckcloud/tduck-report-front
 dockurr/macos
+bytebase/bytebase
