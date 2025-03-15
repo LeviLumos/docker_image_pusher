@@ -16,3 +16,4 @@ tduckcloud/tduck-report-platform
 tduckcloud/tduck-report-front
 dockurr/macos
 bytebase/bytebase
+xuxin1/llmcodereview:latest
