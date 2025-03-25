@@ -17,4 +17,6 @@ tduckcloud/tduck-report-front
 dockurr/macos
 bytebase/bytebase
 xuxin1/llmcodereview:latest
-alpinelinux/gitlab
+alpinelinux/gitlab:17.9
+
+
