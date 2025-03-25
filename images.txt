@@ -18,5 +18,6 @@ dockurr/macos
 bytebase/bytebase
 xuxin1/llmcodereview:latest
 alpinelinux/gitlab:17.9
+gitlab/gitlab-ce:latest
 
 
