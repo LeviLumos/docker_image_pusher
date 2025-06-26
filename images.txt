@@ -19,5 +19,6 @@ bytebase/bytebase
 xuxin1/llmcodereview:latest
 alpinelinux/gitlab:17.9
 gitlab/gitlab-ce:latest
+nacos/nacos-server:v2.5.0
 
 
