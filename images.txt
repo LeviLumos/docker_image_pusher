@@ -20,5 +20,5 @@ xuxin1/llmcodereview:latest
 alpinelinux/gitlab:17.9
 gitlab/gitlab-ce:latest
 nacos/nacos-server:v2.5.0
-
+rabbitmq:3.10.25-management
 
